@@ -4,3 +4,5 @@
 在data中新增节点字段collapse: true,可以控制该节点收缩/折叠 
 # data来源
 使用官方的data格式，必须包含id、children字段
+# 使用
+把tree文件中的js代码拷贝进.vue文件，安装g6，引入data即可
