@@ -1,4 +1,4 @@
-`
+
 <template>
   <div class="tableau">
     <div id="container"></div>
@@ -452,4 +452,4 @@ export default {
   }
 }
 </style>
-`
+
